@@ -18,8 +18,6 @@ This internship focuses on honing data analytics skills through real-world tasks
 - *Skills*: Data cleaning, Data analysis, Data visualization, Python programming.
 
 
+- Internship Completion Certificate
 
-
-
-
-
+![DOC-20240925-WA0002 _page-0001](https://github.com/user-attachments/assets/ae5e5a62-7b4d-4d0b-8dcd-bf29ba8372ba)
