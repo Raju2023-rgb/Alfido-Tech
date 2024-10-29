@@ -1,5 +1,9 @@
 **Data Analytics Internship at Alfido Tech**
 
+## Overview
+
+This internship focuses on honing data analytics skills through real-world tasks. Each task involves data cleaning, analysis, and visualization using Python.
+
 Welcome to the repository for my Data Analytics Internship at Alfido Tech. During this internship,I undertook various tasks involving data visualization, data cleaning, and analysis using Python.
 
 **Skills and Tasks**
