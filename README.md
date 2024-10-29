@@ -37,3 +37,7 @@ Pandas
 Matplotlib
 
 Seaborn
+
+
+<img width="463" alt="Data Analytics Internship At Alfido-Tech" src="(![DOC-20240925-WA0002 _page-0001](https://github.com/user-attachments/assets/155a0591-b32e-4e2e-b157-7e61fd214b4c)
+)">
